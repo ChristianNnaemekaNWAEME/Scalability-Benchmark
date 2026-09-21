@@ -1,0 +1,6 @@
+instance,n_pieces,baseline_utilization_pct,optimizer_utilization_pct,improvement_pct_points
+gcut1 (Beasley 1985),10,43.6,65.4,21.8
+gcut2 (Beasley 1985),20,39.9,73.2,33.3
+gcut3 (Beasley 1985),30,46.6,81.5,34.9
+gcut4 (Beasley 1985),50,46.8,90.0,43.2
+gcut5 (Beasley 1985),10,43.6,72.7,29.1

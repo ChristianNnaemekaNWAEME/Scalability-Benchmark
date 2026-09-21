@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cutting-stock-optimizer"
+version = "0.1.0"
+description = "A 2D rectangle-nesting engine for the Cutting Stock Problem, built for material-intensive manufacturing (textile, leather, sheet metal)."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Christian Nnaemeka Nwaeme" }
+]
+dependencies = [
+    "matplotlib>=3.5"
+]
+
+[project.urls]
+Repository = "https://github.com/ChristianNwaeme/cutting-stock-optimizer"
