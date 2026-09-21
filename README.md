@@ -1,4 +1,4 @@
-# Cutting Stock Optimizer
+# Scalability Benchmark (Cutting Stock Optimizer)
 
 A 2D rectangle-nesting engine for the **Cutting Stock Problem (CSP)** — the
 NP-hard combinatorial optimization problem of arranging a set of rectangular
