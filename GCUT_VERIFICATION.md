@@ -1,4 +1,4 @@
-# Scalability-Benchmark: Transferability to General 2D Cutting-Stock Instances
+# GCUT_VERIFICATION: Transferability to General 2D Cutting-Stock Instances
 
 ## What this is
 
